@@ -3,6 +3,7 @@ import Manga from '../../engine/Manga.mjs';
 
 export default class SlimeRead extends Connector {
 
+
     constructor() {
         super();
         super.id = 'slimeread';
